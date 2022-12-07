@@ -1,0 +1,4 @@
+1. Zahlen mit dem Lücken in Java übertragen
+2.  Zufälliges Gitter auswählen
+3. Fehlnde Ziffer im Gitter erkennen
+4. Längs 

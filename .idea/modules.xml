@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JAVAI.iml" filepath="$PROJECT_DIR$/JAVAI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/blatt3_hs/blatt3_hs.iml" filepath="$PROJECT_DIR$/blatt3_hs/blatt3_hs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/blatt4/blatt4.iml" filepath="$PROJECT_DIR$/blatt4/blatt4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/privateUebungen/privateUebungen.iml" filepath="$PROJECT_DIR$/privateUebungen/privateUebungen.iml" />
+    </modules>
+  </component>
+</project>
